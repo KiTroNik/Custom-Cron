@@ -1,0 +1,3 @@
+/home/jakub/CLionProjects/custom_cron/cmake-build-debug/CMakeFiles/custom_cron.dir
+/home/jakub/CLionProjects/custom_cron/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jakub/CLionProjects/custom_cron/cmake-build-debug/CMakeFiles/rebuild_cache.dir
